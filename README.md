@@ -22,7 +22,7 @@ Python script for listing data connections of layers in an MXD. This will break 
 ####Syntax
 dataConnectionsMXD (MXD, Output_CSV_File) 
 
-#####Parameter                    Explanation Data                                  Type 
+#####Parameter.........................Explanation Data..................................Type 
 MXD                               Dialog Reference                                  ArcMap Document
 
                                   Select an MXD that you would like to analyze 
