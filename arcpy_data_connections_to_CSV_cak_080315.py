@@ -1,5 +1,5 @@
 #-------------------------------------------------------------
-# Name:       ArcGIS_data_connections_to_CSV_cak_080315.py
+# Name:       arcpy_data_connections_to_CSV_cak_080315.py
 # Purpose:    creates a list of data connections for layers in an MXD (for ArcToolbox)
 # Author:     geoCAK
 # Created:    03/08/2015
