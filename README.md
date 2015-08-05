@@ -27,7 +27,6 @@ Parameter|Explanation Data|Type
 MXD|Dialog Reference|ArcMap Document
 .|Select an MXD that you would like to analyze and create a list of feature, raster, service, and table view connections.
 .|There is no python reference for this parameter.
-  
 Output_CSV_File|Dialog Reference|File
 .|Navigate to a directory to store the data connections CSV file. When naming the CSV file, make sure to add the extension (*.csv).
 .|There is no python reference for this parameter.
