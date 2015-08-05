@@ -23,7 +23,7 @@ Python script for listing data connections of layers in an MXD. This will break 
 dataConnectionsMXD (MXD, Output_CSV_File) 
 
 #####Parameter.........................Explanation Data..................................Type 
-MXD                               Dialog Reference                                  ArcMap Document
+MXD...............................Dialog Reference..................................ArcMap Document
 
                                   Select an MXD that you would like to analyze 
                                   and create a list of feature, raster, service, 
@@ -31,7 +31,7 @@ MXD                               Dialog Reference                              
 
                                   There is no python reference for this parameter.
   
-Output_CSV_File                   Dialog Reference                                  File
+Output_CSV_File...................Dialog Reference..................................File
 
                                   Navigate to a directory to store the data 
                                   connections CSV file. When naming the CSV file, 
