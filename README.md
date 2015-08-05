@@ -25,7 +25,7 @@ dataConnectionsMXD (MXD, Output_CSV_File)
 Parameter|Explanation Data|Type 
 ---------|----------------|----
 MXD|Dialog Reference|ArcMap Document
-|Select an MXD that you would like to analyze and create a list of feature, raster, service, and table view connections.
+.|Select an MXD that you would like to analyze and create a list of feature, raster, service, and table view connections.
 
 ..|There is no python reference for this parameter.
   
